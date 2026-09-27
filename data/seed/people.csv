@@ -1,0 +1,15 @@
+person_id,name,role,designation,organisation,facility_id,floor,email,phone
+EMP-1001,Rohan Deshpande,facility_staff,Facility Manager,Apex Integrated FM Services,FAC-001,G,rohan.deshpande@apexifm.example,Ext 1001
+EMP-1024,Priya Kulkarni,facility_staff,MEP Supervisor,Apex Integrated FM Services,FAC-001,B2,priya.kulkarni@apexifm.example,Ext 1024
+EMP-1031,Sameer Shaikh,facility_staff,HVAC Technician,Apex Integrated FM Services,FAC-001,B2,sameer.shaikh@apexifm.example,Ext 1031
+EMP-1045,Anil Jadhav,facility_staff,Electrical Technician,Apex Integrated FM Services,FAC-001,G,anil.jadhav@apexifm.example,Ext 1045
+EMP-1052,Neha Patil,facility_staff,Helpdesk Executive,Apex Integrated FM Services,FAC-001,G,helpdesk.tower-a@apexifm.example,Ext 1052
+EMP-1060,Vikram More,facility_staff,Fire & Safety Officer,Apex Integrated FM Services,FAC-001,G,vikram.more@apexifm.example,Ext 1060
+EMP-1101,Kavita Joshi,facility_staff,Facility Manager,Apex Integrated FM Services,FAC-002,G,kavita.joshi@apexifm.example,Ext 2101
+EMP-1115,Ganesh Pawar,facility_staff,Multi-skilled Technician,Apex Integrated FM Services,FAC-002,G,ganesh.pawar@apexifm.example,Ext 2115
+OCC-2001,Aditi Rao,occupant,Admin Manager,Nimbus Analytics Pvt Ltd,FAC-001,L5,aditi.rao@nimbus.example,
+OCC-2002,Farhan Qureshi,occupant,Office Administrator,Kestrel Fintech Ltd,FAC-001,L9,farhan.q@kestrel.example,
+OCC-2003,Meera Iyer,occupant,Studio Operations Lead,Tatva Design Studio LLP,FAC-001,L12,meera@tatvadesign.example,
+OCC-2004,Rahul Bhosale,occupant,Analyst,Nimbus Analytics Pvt Ltd,FAC-001,L6,rahul.bhosale@nimbus.example,
+OCC-2101,Sneha Kale,occupant,Admin Executive,Godavari Life Sciences Ltd,FAC-002,L3,sneha.kale@godavarils.example,
+OCC-2102,Arjun Wagh,occupant,IT & Admin Lead,Ellora Softworks Pvt Ltd,FAC-002,L1,arjun.wagh@ellorasoft.example,

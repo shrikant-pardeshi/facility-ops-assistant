@@ -1,0 +1,682 @@
+[
+  {
+    "scenario": "A1",
+    "step": 1,
+    "say": "How do I reset a chiller trip alarm?",
+    "passed": true,
+    "failures": [],
+    "seconds": 13.0,
+    "screenshot": "screenshots/A1_1.png",
+    "reply_excerpt": "\ud83c\udfe2 According to SOP-HVAC-002 (Chiller Trip Alarm - Diagnosis and Reset), only trained HVAC technicians may reset a chiller trip. Never bypass or jumper safety devices, and apply Lock-Out/Tag-Out (LOTO) before opening any electrical panel. Step 1: Record the Alarm Before Resetting Note the alarm code "
+  },
+  {
+    "scenario": "A2",
+    "step": 1,
+    "say": "What documents are needed for fire NOC renewal?",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.1,
+    "screenshot": "screenshots/A2_1.png",
+    "reply_excerpt": "\ud83c\udfe2 According to REG-FIRE-001 (Fire NOC and Renewal Requirements), the FM team must submit the following documents for Fire NOC renewal: Application to the local fire authority in the prescribed format, along with the renewal fee. Form B certificates: Latest two half-yearly Form B certificates from a "
+  },
+  {
+    "scenario": "A3",
+    "step": 1,
+    "say": "When is Form B due?",
+    "passed": true,
+    "failures": [],
+    "seconds": 15.3,
+    "screenshot": "screenshots/A3_1.png",
+    "reply_excerpt": "\ud83c\udfe2 According to REG-FIRE-002 (Form B - Half-yearly Fire System Compliance Certificate), Form B must be furnished twice a year: January (must be submitted by the end of January) July (must be submitted by the end of July) A certificate from a licensed agency must be submitted to the Chief Fire Officer"
+  },
+  {
+    "scenario": "A4",
+    "step": 1,
+    "say": "What are the lift inspection rules?",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.0,
+    "screenshot": "screenshots/A4_1.png",
+    "reply_excerpt": "\ud83c\udfe2 According to REG-LIFT-001 (Lift Licence and Periodic Inspection), the rules and responsibilities for lift inspection are as follows: Statutory Requirements Licence & Periodic Inspection: Every lift must hold a valid licence issued by the state Inspector of Lifts. It must be periodically inspected "
+  },
+  {
+    "scenario": "A4",
+    "step": 2,
+    "say": "And what if there's an accident?",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.9,
+    "screenshot": "screenshots/A4_2.png",
+    "reply_excerpt": "\ud83c\udfe2 According to REG-LIFT-001 (Lift Licence and Periodic Inspection), in the event of an accident involving a lift: Any accident that causes injury must be reported to the Inspector of Lifts without delay. The lift must be kept out of service until the Inspector permits its use. \ud83d\udca1 Suggestions AI-gener"
+  },
+  {
+    "scenario": "A5",
+    "step": 1,
+    "say": "What's the visitor parking policy?",
+    "passed": true,
+    "failures": [],
+    "seconds": 6.4,
+    "screenshot": "screenshots/A5_1.png",
+    "reply_excerpt": "\ud83c\udfe2 The visitor parking policy was not found in the knowledge base. \ud83d\udca1 Suggestions AI-generated - not from the records. Verify before acting. Contact the facility management office or security desk directly for visitor parking rules. keyboard_arrow_down \ud83d\udd27 Agent actions - 1 tool result(s) Graph path: un"
+  },
+  {
+    "scenario": "A6",
+    "step": 1,
+    "say": "My access card is not working at the L5 door, what should I check?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.4,
+    "screenshot": "screenshots/A6_1.png",
+    "reply_excerpt": "\ud83c\udfe2 According to SOP-SEC-001 (Access Card Reader and Door Access Faults), here are the initial checks you should perform: Try a second reader: Test your card on another reader on the same floor. If it works there, the reader at the L5 door is likely faulty. Inspect the card: Verify that the card is no"
+  },
+  {
+    "scenario": "A6",
+    "step": 2,
+    "say": "How often are the washrooms cleaned?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.1,
+    "screenshot": "screenshots/A6_2.png",
+    "reply_excerpt": "\ud83c\udfe2 According to SOP-HK-001 (Housekeeping - Washrooms, Pantries and Meeting Rooms), the washroom cleaning frequency is as follows: Routine cleaning: Every 2 hours between 07:00 and 21:00. Deep cleaning: Weekly on Saturday. In addition, soap, tissue, and hand towels are checked during every round and r"
+  },
+  {
+    "scenario": "A6",
+    "step": 3,
+    "say": "How often do we need to hold a fire drill?",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.8,
+    "screenshot": "screenshots/A6_3.png",
+    "reply_excerpt": "\ud83c\udfe2 According to REG-FIRE-003 (Fire Drills and Evacuation Training): Frequency: A full-building evacuation (mock) drill must be conducted at least twice a year, approximately six months apart. Unannounced Drill: At least one drill each year must be held without advance notice to occupants. Tenant & Wa"
+  },
+  {
+    "scenario": "B1",
+    "step": 1,
+    "say": "What's the AMC and service status of AST-CHL-001?",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.6,
+    "screenshot": "screenshots/B1_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Here is the AMC and service status for AST-CHL-001 (Chiller 1 - 400 TR water-cooled screw): Asset Status Operational Status: Running Location: B2, Chiller Plant Room Warranty: Expired (14-Mar-2021) AMC Status Status: Active Contract ID: AMC-001 Vendor: CoolTech HVAC Services (Contact: service@cool"
+  },
+  {
+    "scenario": "B1",
+    "step": 2,
+    "say": "Is chiller 2 under AMC?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.7,
+    "screenshot": "screenshots/B1_2.png",
+    "reply_excerpt": "\ud83c\udfe2 Yes, Chiller 2 (AST-CHL-002) is currently covered under an AMC, but the contract is expiring soon. AMC Details Contract ID: AMC-002 Vendor: CoolTech HVAC Services Contract Type: Non-comprehensive Validity: 01-Nov-2025 to 31-Oct-2026 Status: Expiring soon Visit Frequency: Monthly Vendor Contact: se"
+  },
+  {
+    "scenario": "B1",
+    "step": 3,
+    "say": "Check AHU L12",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.7,
+    "screenshot": "screenshots/B1_3.png",
+    "reply_excerpt": "\ud83c\udfe2 Asset Details: AHU L12 - 18000 CFM (AST-AHU-012) Location: L12, AHU Room Operational Status: Running Make & Model: Zeco Double-skin AHU 18000 CFM (Serial No: ZA-18-12-2019) Installation Date: 02-Apr-2019 Criticality: Medium Warranty: Expired (01-Apr-2021) AMC Contract Details (AMC-005) Vendor: Coo"
+  },
+  {
+    "scenario": "B1",
+    "step": 4,
+    "say": "When was it last serviced?",
+    "passed": true,
+    "failures": [],
+    "seconds": 10.8,
+    "screenshot": "screenshots/B1_4.png",
+    "reply_excerpt": "\ud83c\udfe2 Asset AST-AHU-012 (AHU L12 - 18000 CFM) was last serviced on 20-Jun-2026. Service Details (Record ID: MR-0015) Service Date: 20-Jun-2026 Maintenance Type: Quarterly PPM Performed By: CoolTech HVAC Services Downtime: 2.0 hours Notes: Blower bearing noise noted; replacement recommended at next visit"
+  },
+  {
+    "scenario": "B1",
+    "step": 5,
+    "say": "What about AHU L9?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.1,
+    "screenshot": "screenshots/B1_5.png",
+    "reply_excerpt": "\ud83c\udfe2 Here are the details for AHU L9: Asset ID: AST-AHU-009 Name: AHU L9 - 22000 CFM (replaced 2026) Location: L9, AHU Room Make & Model: Zeco Double-skin AHU 22000 CFM with EC fans (Serial No: ZA-22-9-2026) Status: Running Criticality: Medium Installation Date: 10-Feb-2026 Warranty: Active until 09-Fe"
+  },
+  {
+    "scenario": "B1",
+    "step": 6,
+    "say": "Fire pump AMC?",
+    "passed": true,
+    "failures": [],
+    "seconds": 5.2,
+    "screenshot": "screenshots/B1_6.png",
+    "reply_excerpt": "\ud83c\udfe2 \u2753 Which one do you mean? AST-FPP-001 (Main Fire Pump (electric) - 2850 LPM); AST-FPP-002 (Diesel Fire Pump - 2850 LPM); AST-FPP-003 (Jockey Pump - 180 LPM) keyboard_arrow_down \ud83d\udd27 Agent actions - 1 tool result(s) Graph path: understand \u2192 check_requirements \u2192 asset_lookup \u2192 respond Tool results Trace"
+  },
+  {
+    "scenario": "B1",
+    "step": 7,
+    "say": "The jockey pump",
+    "passed": true,
+    "failures": [],
+    "seconds": 10.9,
+    "screenshot": "screenshots/B1_7.png",
+    "reply_excerpt": "\ud83c\udfe2 Asset Details: Jockey Pump - 180 LPM (AST-FPP-003) Location: B2, Fire Pump Room Make & Model: Kirloskar Vertical multistage 180 LPM (S/N: KBL-FP-19-03) Status: Running (Criticality: Medium) Installation Date: 10-Jan-2019 Warranty: Expired (09-Jan-2021) Maintenance & AMC AMC Contract: AMC-014 with "
+  },
+  {
+    "scenario": "B1",
+    "step": 8,
+    "say": "Status of WO-2026-0029?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.0,
+    "screenshot": "screenshots/B1_8.png",
+    "reply_excerpt": "\ud83c\udfe2 Work Order Status: WO-2026-0029 Status: In Progress Priority: P2 Asset ID: AST-CHL-003 Location: B2, Chiller Plant Room Category: HVAC Created: 24-Sep-2026 Last Updated: 26-Sep-2026 Description: Chiller 3 (standby) failed to start during changeover; compressor motor IR low. Motor sent for rewindin"
+  },
+  {
+    "scenario": "B1",
+    "step": 9,
+    "say": "Check AST-CHL-009",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.9,
+    "screenshot": "screenshots/B1_9.png",
+    "reply_excerpt": "\ud83c\udfe2 No asset with ID AST-CHL-009 was found in the records. \ud83d\udca1 Suggestions AI-generated - not from the records. Verify before acting. Verify the asset ID and try again. keyboard_arrow_down \ud83d\udd27 Agent actions - 1 tool result(s) Graph path: understand \u2192 check_requirements \u2192 asset_lookup \u2192 respond Tool result"
+  },
+  {
+    "scenario": "B2",
+    "step": 1,
+    "say": "What's the status of my complaints?",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.1,
+    "screenshot": "screenshots/B2_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Here is the status of your complaints: Complaint CMP-2026-0017 Status: Assigned Priority: P3 Category: Security Location: L5, Main entrance door Description: Access card reader at L5 main door not responding intermittently. Reported: 29-Sep-2026 Complaint CMP-2026-0009 Status: Closed Priority: P3 "
+  },
+  {
+    "scenario": "B2",
+    "step": 2,
+    "say": "And my access card issue?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.9,
+    "screenshot": "screenshots/B2_2.png",
+    "reply_excerpt": "\ud83c\udfe2 Your access card issue is tracked under complaint CMP-2026-0017: Ticket ID: CMP-2026-0017 Type: Complaint Status: Assigned Priority: P3 Location: L5, Main entrance door Category: Security Description: Access card reader at L5 main door not responding intermittently. Created: 29-Sep-2026 Last Updat"
+  },
+  {
+    "scenario": "C1",
+    "step": 1,
+    "say": "Which compliance items are overdue?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.1,
+    "screenshot": "screenshots/C1_1.png",
+    "reply_excerpt": "\ud83c\udfe2 As of 01-Oct-2026, there are 2 overdue compliance items for Sahyadri Business Park - Tower A: Form B - half-yearly fire system compliance certificate (Jan 2026 cycle) Certificate ID: CERT-002 Issuing Authority: Licensed fire agency (FireSafe Systems) - submitted to Chief Fire Officer Reference No:"
+  },
+  {
+    "scenario": "C1",
+    "step": 2,
+    "say": "What's due soon?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.7,
+    "screenshot": "screenshots/C1_2.png",
+    "reply_excerpt": "\ud83c\udfe2 Here are the compliance certificates due soon or upcoming for Sahyadri Business Park - Tower A as of 01-Oct-2026: Due Certificates Drinking water quality test report (quarterly) (CERT-011) Expiry Date: 10-Oct-2026 (9 days remaining) Renewal Start Date: 30-Sep-2026 Related Tickets: None Lift licenc"
+  },
+  {
+    "scenario": "C1",
+    "step": 3,
+    "say": "When does our fire NOC expire?",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.0,
+    "screenshot": "screenshots/C1_3.png",
+    "reply_excerpt": "\ud83c\udfe2 The Fire NOC for Sahyadri Business Park - Tower A expires on 15-Dec-2026. Certificate Details Certificate ID: CERT-001 Title: Fire NOC (renewal) Reference Number: FNOC/PUN/2025/0417 Issuing Authority: Chief Fire Officer, local fire authority Issue Date: 16-Dec-2025 Expiry Date: 15-Dec-2026 (75 day"
+  },
+  {
+    "scenario": "C2",
+    "step": 1,
+    "say": "What's our compliance status?",
+    "passed": true,
+    "failures": [],
+    "seconds": 11.7,
+    "screenshot": "screenshots/C2_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Compliance Status for Deccan Corporate Centre (as of 01-Oct-2026) Overview: Valid: 3 Upcoming: 2 Due: 0 Overdue: 1 Overdue (1) Lift licence and periodic inspection - Lift B (CERT-015) Asset: AST-LFT-102 Expired: 15-Sep-2026 (16 days overdue) Renewal Start Date Was: 01-Aug-2026 Issuing Authority: I"
+  },
+  {
+    "scenario": "C3",
+    "step": 1,
+    "say": "Which compliance items are overdue?",
+    "passed": true,
+    "failures": [],
+    "seconds": 9.4,
+    "screenshot": "screenshots/C3_1.png",
+    "reply_excerpt": "\ud83c\udfe2 As of 01-Oct-2026, there are 2 overdue compliance items for Sahyadri Business Park - Tower A: Form B - half-yearly fire system compliance certificate (Jan 2026 cycle) (CERT-002) Expiry Date: 31-Jul-2026 (62 days overdue) Issuing Authority: Licensed fire agency (FireSafe Systems) - submitted to Chi"
+  },
+  {
+    "scenario": "C3",
+    "step": 2,
+    "say": "(switch working facility to FAC-002)",
+    "passed": true,
+    "failures": [],
+    "seconds": 1.7,
+    "screenshot": "screenshots/C3_2.png",
+    "reply_excerpt": "\ud83c\udfe2 \u2139\ufe0f Switched working facility from FAC-001 to FAC-002 \u00b7 Deccan Corporate Centre. Equipment, compliance and new tickets now refer to this site; any unfinished ticket draft for the previous site was discarded."
+  },
+  {
+    "scenario": "C3",
+    "step": 3,
+    "say": "And what's overdue at this site?",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.4,
+    "screenshot": "screenshots/C3_3.png",
+    "reply_excerpt": "\ud83c\udfe2 At Deccan Corporate Centre, there is 1 overdue compliance item as of 01-Oct-2026: Lift licence and periodic inspection - Lift B Certificate ID: CERT-015 Asset ID: AST-LFT-102 Issuing Authority: Inspector of Lifts (State) Reference No: LIFT/CSN/21/0302 Expiry Date: 15-Sep-2026 (16 days overdue) Ren"
+  },
+  {
+    "scenario": "C3",
+    "step": 4,
+    "say": "Is the AMC on lift B active?",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.3,
+    "screenshot": "screenshots/C3_4.png",
+    "reply_excerpt": "\ud83c\udfe2 Yes, the AMC on Lift B (AST-LFT-102) is currently active, but it is expiring soon. AMC Details AMC ID: AMC-022 Status: Expiring soon Contract Type: Comprehensive Vendor: Vertex Elevator Services (care@vertexelevators.example / +91-240-555-0220) Contract Period: 01-Nov-2025 to 31-Oct-2026 Visit Fre"
+  },
+  {
+    "scenario": "D1",
+    "step": 1,
+    "say": "The AC isn't cooling, please log a complaint",
+    "passed": true,
+    "failures": [],
+    "seconds": 4.8,
+    "screenshot": "screenshots/D1_1.png",
+    "reply_excerpt": "\ud83c\udfe2 \u2753 Please share the exact location - floor and area (e.g. 'L5, east wing conference room'). keyboard_arrow_down \ud83d\udd27 Agent actions - 1 tool result(s) Graph path: understand \u2192 check_requirements \u2192 work_order_prepare \u2192 respond Tool results Trace Work Order / Complaint \u00b7 \u2753 needs input Missing: location {"
+  },
+  {
+    "scenario": "D1",
+    "step": 2,
+    "say": "L5 east wing conference room",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.5,
+    "screenshot": "screenshots/D1_2.png",
+    "reply_excerpt": "\ud83c\udfe2 Here is a summary of the draft complaint: Ticket Type: Complaint Facility: FAC-001 Location: L5 east wing conference room Category: HVAC Priority: P3 (Reason: localised issue - default priority) Issue: The AC isn't cooling \u2753 Shall I create this complaint? Reply yes to confirm or no to cancel. \ud83d\udcce So"
+  },
+  {
+    "scenario": "D1",
+    "step": 3,
+    "say": "yes",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.8,
+    "screenshot": "screenshots/D1_3.png",
+    "reply_excerpt": "\ud83c\udfe2 Your complaint has been successfully created. Ticket ID: CMP-2026-0018 Type: Complaint Status: Open Priority: P3 (Response SLA: 24 h) Location: L5 east wing conference room Category: HVAC Description: The AC isn't cooling \ud83d\udca1 Suggestions AI-generated - not from the records. Verify before acting. Kee"
+  },
+  {
+    "scenario": "D1",
+    "step": 4,
+    "say": "Please log a complaint: AC not cooling in the L5 east wing conference room",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.0,
+    "screenshot": "screenshots/D1_4.png",
+    "reply_excerpt": "\ud83c\udfe2 No new ticket was created because an existing complaint is already open for this issue. Complaint ID: CMP-2026-0018 Status: open Location: L5 east wing conference room Issue: The AC isn't cooling Priority: P3 \ud83d\udca1 Suggestions AI-generated - not from the records. Verify before acting. Track the progre"
+  },
+  {
+    "scenario": "D2",
+    "step": 1,
+    "say": "Lift 2 keeps stopping at L7, raise a ticket",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.2,
+    "screenshot": "screenshots/D2_1.png",
+    "reply_excerpt": "\ud83c\udfe2 No new work order was created as an existing work order is already addressing this issue. Work Order ID: WO-2026-0031 Status: in_progress Priority: P2 Location: Core A, Lift Bank 1 (Floor L7) Details: Passenger Lift 2 stopping intermittently at L7; landing door not closing fully. Door lock assembl"
+  },
+  {
+    "scenario": "D3",
+    "step": 1,
+    "say": "DG 2 battery alarm again, raise a work order",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.7,
+    "screenshot": "screenshots/D3_1.png",
+    "reply_excerpt": "\ud83c\udfe2 No new work order was created because an existing work order matches this issue: Work Order ID: WO-2026-0034 Status: resolved Asset: DG 2 (AST-DGS-002) Location: Ground, DG Yard (Floor G) Description: DG 2 low battery voltage alarm during weekly no-load test; engine cranking slow. \ud83d\udca1 Suggestions AI"
+  },
+  {
+    "scenario": "D4",
+    "step": 1,
+    "say": "Chiller 1 tripped again, raise a work order",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.1,
+    "screenshot": "screenshots/D4_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Here is the summary of the draft work order: Ticket Type: Work order Location: B2, Chiller Plant Room (FAC-001) Asset: Chiller 1 (AST-CHL-001) Category: HVAC Priority: P2 (fault on a high-criticality asset) Issue: Chiller 1 tripped again \u2753 Shall I create this work order? Reply yes to confirm or no"
+  },
+  {
+    "scenario": "D4",
+    "step": 2,
+    "say": "yes",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.9,
+    "screenshot": "screenshots/D4_2.png",
+    "reply_excerpt": "\ud83c\udfe2 Work order WO-2026-0035 has been created successfully. Details: Ticket Type: Work order Status: Open Priority: P2 (Response SLA: 4 hours) Asset ID: AST-CHL-001 (Chiller 1) Location: B2, Chiller Plant Room Category: HVAC Description: Chiller 1 tripped again \ud83d\udca1 Suggestions AI-generated - not from the"
+  },
+  {
+    "scenario": "D5",
+    "step": 1,
+    "say": "The pantry lights are flickering, log a complaint",
+    "passed": true,
+    "failures": [],
+    "seconds": 5.2,
+    "screenshot": "screenshots/D5_1.png",
+    "reply_excerpt": "\ud83c\udfe2 \u2753 Please share which floor this is on (e.g. L5, G, B2). keyboard_arrow_down \ud83d\udd27 Agent actions - 1 tool result(s) Graph path: understand \u2192 check_requirements \u2192 work_order_prepare \u2192 respond Tool results Trace Work Order / Complaint \u00b7 \u2753 needs input Missing: floor {...}"
+  },
+  {
+    "scenario": "D5",
+    "step": 2,
+    "say": "L6",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.6,
+    "screenshot": "screenshots/D5_2.png",
+    "reply_excerpt": "\ud83c\udfe2 No new ticket was created as a matching complaint already exists: Complaint ID: CMP-2026-0015 Status: resolved Location: L6, Pantry Description: Pantry ceiling lights flickering on L6. \ud83d\udca1 Suggestions AI-generated - not from the records. Verify before acting. Verify if the flickering issue in the L6"
+  },
+  {
+    "scenario": "D6",
+    "step": 1,
+    "say": "AHU L9 filter alarm keeps coming, raise a work order",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.9,
+    "screenshot": "screenshots/D6_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Here is a summary of the draft work order: Ticket Type: Work order Location: FAC-001, Floor L9 Asset: AST-AHU-009 (AHU L9) Category: HVAC Priority: P3 (Reason: localised issue - default priority) Issue: filter alarm keeps coming \u2753 Shall I create this work order? Reply yes to confirm or no to cance"
+  },
+  {
+    "scenario": "D6",
+    "step": 2,
+    "say": "no",
+    "passed": true,
+    "failures": [],
+    "seconds": 6.7,
+    "screenshot": "screenshots/D6_2.png",
+    "reply_excerpt": "\ud83c\udfe2 The draft ticket has been cancelled at your request. No ticket was created. keyboard_arrow_down \ud83d\udd27 Agent actions - 1 tool result(s) Graph path: understand \u2192 respond Tool results Trace Work Order / Complaint \u00b7 \u2705 success Draft cancelled at the user's request. No ticket was created."
+  },
+  {
+    "scenario": "D7",
+    "step": 1,
+    "say": "The transformer is making a loud humming noise, raise a work order",
+    "passed": true,
+    "failures": [],
+    "seconds": 13.8,
+    "screenshot": "screenshots/D7_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Here is a summary of the draft work order: Ticket Type: Work order Asset ID: AST-TRF-001 Location: Ground, HT Substation (FAC-001) Category: Electrical Priority: P2 (fault on a high-criticality asset) Issue: The transformer is making a loud humming noise \u2753 Shall I create this work order? Reply yes"
+  },
+  {
+    "scenario": "D7",
+    "step": 2,
+    "say": "Before that, what should I do during a mains power failure?",
+    "passed": true,
+    "failures": [],
+    "seconds": 11.1,
+    "screenshot": "screenshots/D7_2.png",
+    "reply_excerpt": "\ud83c\udfe2 According to SOP-ELEC-001 (Mains Power Failure Response), follow these procedures: Immediate Actions DG Sets: Confirm DG sets have started on AMF (auto mains failure) and taken load within 15 seconds. UPS: Confirm UPS is supplying critical loads and check remaining UPS battery backup time. Lifts: "
+  },
+  {
+    "scenario": "D7",
+    "step": 3,
+    "say": "yes, create it",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.9,
+    "screenshot": "screenshots/D7_3.png",
+    "reply_excerpt": "\ud83c\udfe2 The work order has been created successfully. Work Order ID: WO-2026-0036 Ticket Type: Work order Asset ID: AST-TRF-001 Location: Ground, HT Substation (Floor G) Category: Electrical Priority: P2 (Response SLA: 4 hours) Status: Open Description: The transformer is making a loud humming noise \ud83d\udca1 Sug"
+  },
+  {
+    "scenario": "D8",
+    "step": 1,
+    "say": "Two people are trapped in lift 3, L9 lobby",
+    "passed": true,
+    "failures": [],
+    "seconds": 16.4,
+    "screenshot": "screenshots/D8_1.png",
+    "reply_excerpt": "\ud83c\udfe2 \ud83d\udea8 Emergency (P1) reported. Immediate safety steps from the SOP are shown first. \u26a0\ufe0f Immediate steps According to SOP-LIFT-001 (Lift Entrapment Rescue): Talk to the trapped passengers on the intercom. Reassure them, ask how many people are inside and whether anyone is unwell. Tell them NOT to try to"
+  },
+  {
+    "scenario": "D8",
+    "step": 2,
+    "say": "yes",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.9,
+    "screenshot": "screenshots/D8_2.png",
+    "reply_excerpt": "\ud83c\udfe2 Your complaint has been successfully created. Ticket ID: CMP-2026-0019 Type: Complaint Status: Open Priority: P1 (Response SLA: 1 h) Location: L9 lobby (Floor L9) Category: Lift Issue: Two people are trapped in lift 3, L9 lobby \ud83d\udca1 Suggestions AI-generated - not from the records. Verify before actin"
+  },
+  {
+    "scenario": "D9",
+    "step": 1,
+    "say": "Smoke coming from the L3 electrical riser, raise a work order",
+    "passed": true,
+    "failures": [],
+    "seconds": 10.1,
+    "screenshot": "screenshots/D9_1.png",
+    "reply_excerpt": "\ud83c\udfe2 \ud83d\udea8 Emergency (P1) reported. Immediate safety steps from the SOP are shown first. \u26a0\ufe0f Immediate steps According to SOP-FIRE-001 (Fire Alarm Activation Response): The Fire Command Centre (FCC) operator notes the zone and device address shown on the fire alarm panel. Send the nearest trained responder "
+  },
+  {
+    "scenario": "D10",
+    "step": 1,
+    "say": "Meeting room 9B on L9 wasn't cleaned this morning, log a complaint",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.6,
+    "screenshot": "screenshots/D10_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Here are the details for the draft ticket: Ticket Type: Complaint Location: L9, Meeting room 9B (FAC-001) Category: Housekeeping Priority: P4 (housekeeping request) Issue: Meeting room 9B on L9 wasn't cleaned this morning \u2753 Shall I create this complaint? Reply yes to confirm or no to cancel. \ud83d\udcce Sou"
+  },
+  {
+    "scenario": "D11",
+    "step": 1,
+    "say": "Lift B door is not closing properly, please raise a work order",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.6,
+    "screenshot": "screenshots/D11_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Here is the summary of the draft work order: Ticket Type: Work order Asset: Lift B (AST-LFT-102) Location: Main Core (FAC-002) Category: Lift Priority: P2 (lift fault: lift out of service is P2 unless someone is trapped) Issue: Lift B door is not closing properly \u2753 Shall I create this work order? "
+  },
+  {
+    "scenario": "D11",
+    "step": 2,
+    "say": "yes",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.0,
+    "screenshot": "screenshots/D11_2.png",
+    "reply_excerpt": "\ud83c\udfe2 Work order WO-2026-0037 has been created successfully. Work Order Details Ticket ID: WO-2026-0037 Type: Work order Status: Open Facility: FAC-002 Asset: AST-LFT-102 (Lift B) Location: Main Core Category: Lift Priority: P2 (Response SLA: 4 hours) Issue Description: Lift B door is not closing proper"
+  },
+  {
+    "scenario": "E1",
+    "step": 1,
+    "say": "What's the AMC status of chiller 1?",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.2,
+    "screenshot": "screenshots/E1_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Asset, AMC, and maintenance information is restricted to the facility management team. As an occupant, you can: Search maintenance and safety guidance Raise a complaint Check the status of tickets you have raised \ud83d\udca1 Suggestions AI-generated - not from the records. Verify before acting. Contact the "
+  },
+  {
+    "scenario": "E2",
+    "step": 1,
+    "say": "Which compliance items are overdue?",
+    "passed": true,
+    "failures": [],
+    "seconds": 6.6,
+    "screenshot": "screenshots/E2_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Statutory compliance status is restricted to the facility management team. As an occupant, you can search maintenance and safety guidance, raise a complaint, or check the status of tickets you have raised. \ud83d\udca1 Suggestions AI-generated - not from the records. Verify before acting. Contact the facilit"
+  },
+  {
+    "scenario": "E3",
+    "step": 1,
+    "say": "Status of CMP-2026-0017?",
+    "passed": true,
+    "failures": [],
+    "seconds": 10.6,
+    "screenshot": "screenshots/E3_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Here are the details for complaint CMP-2026-0017: Status: Assigned Priority: P3 Category: Security Location: L5, Main entrance door Description: Access card reader at L5 main door not responding intermittently. Created: 29-Sep-2026 09:55 Last Updated: 29-Sep-2026 14:20 \ud83d\udca1 Suggestions AI-generated -"
+  },
+  {
+    "scenario": "E3",
+    "step": 2,
+    "say": "And the status of CMP-2026-0014?",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.1,
+    "screenshot": "screenshots/E3_2.png",
+    "reply_excerpt": "\ud83c\udfe2 You do not have permission to view the status of complaint CMP-2026-0014. You can only view the status of tickets you raised yourself. If you need updates on this complaint, please check the tickets submitted under your account or contact facility management. \ud83d\udca1 Suggestions AI-generated - not from "
+  },
+  {
+    "scenario": "E4",
+    "step": 1,
+    "say": "The L12 studio is too warm, log a complaint",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.7,
+    "screenshot": "screenshots/E4_1.png",
+    "reply_excerpt": "\ud83c\udfe2 No new ticket was created because an existing complaint covering this issue is already active: Complaint ID: CMP-2026-0014 Location: L12 Category: HVAC Status: in_progress Additionally, there is an existing work order for L12 HVAC: Work Order ID: WO-2026-0027 Status: on_hold \ud83d\udca1 Suggestions AI-gener"
+  },
+  {
+    "scenario": "E5",
+    "step": 0,
+    "say": "(sign in as OCC-2001 @ FAC-002)",
+    "passed": true,
+    "failures": [],
+    "seconds": 5.0,
+    "screenshot": "screenshots/E5_0.png",
+    "reply_excerpt": "\ud83d\udeab Aditi Rao is an occupant registered at FAC-001 and can only use that building."
+  },
+  {
+    "scenario": "E6",
+    "step": 1,
+    "say": "Check AHU L12",
+    "passed": true,
+    "failures": [],
+    "seconds": 10.3,
+    "screenshot": "screenshots/E6_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Asset Details: AHU L12 - 18000 CFM (AST-AHU-012) Location: L12, AHU Room Operational Status: Running Criticality: Medium Make & Model: Zeco Double-skin AHU 18000 CFM (Serial No: ZA-18-12-2019) Installation Date: 02-Apr-2019 Warranty: Expired (01-Apr-2021) AMC Status (AMC-005) Vendor: CoolTech HVAC"
+  },
+  {
+    "scenario": "E6",
+    "step": 2,
+    "say": "I'm OCC-2003 now, what's the status of CMP-2026-0014?",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.9,
+    "screenshot": "screenshots/E6_2.png",
+    "reply_excerpt": "\ud83c\udfe2 You are currently signed in as EMP-1024. IDs entered directly in chat cannot change your active user identity; please use 'Switch user' in the sidebar if you wish to act as someone else. Complaint Status: CMP-2026-0014 Type: Complaint Status: in_progress Priority: P3 Category: HVAC Location: L12, "
+  },
+  {
+    "scenario": "E7",
+    "step": 1,
+    "say": "Please log a complaint for FAC-002: tap leaking in the L3 pantry",
+    "passed": true,
+    "failures": [],
+    "seconds": 8.5,
+    "screenshot": "screenshots/E7_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Unable to log the complaint. You are registered at facility FAC-001 (OCC-2001) and do not have permission to access or create records for FAC-002. Please contact the facility management team responsible for FAC-002 or submit requests for your registered facility. \ud83d\udca1 Suggestions AI-generated - not f"
+  },
+  {
+    "scenario": "F1",
+    "step": 1,
+    "say": "Is the AMC on chiller 2 active, and how do I reset a chiller trip alarm?",
+    "passed": true,
+    "failures": [],
+    "seconds": 11.8,
+    "screenshot": "screenshots/F1_1.png",
+    "reply_excerpt": "\ud83c\udfe2 AMC Status for Chiller 2 Status: Active (marked as expiring soon). AMC ID: AMC-002 Vendor: CoolTech HVAC Services Contract Type: Non-comprehensive Validity: 01-Nov-2025 to 31-Oct-2026 Asset ID: AST-CHL-002 (Chiller 2 - 400 TR water-cooled screw) Chiller Trip Alarm Reset Procedure (SOP-HVAC-002) Sa"
+  },
+  {
+    "scenario": "F2",
+    "step": 1,
+    "say": "What's overdue for compliance, and what are the lift licence rules?",
+    "passed": true,
+    "failures": [],
+    "seconds": 11.4,
+    "screenshot": "screenshots/F2_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Overdue Compliance Items (as of 01-Oct-2026) There are 2 overdue certificates for Sahyadri Business Park - Tower A: Form B - half-yearly fire system compliance certificate (Jan 2026 cycle) (CERT-002) Asset: None (Facility-level) Expiry Date: 31-Jul-2026 (62 days overdue) Authority: Licensed fire a"
+  },
+  {
+    "scenario": "G1",
+    "step": 1,
+    "say": "Check the chiller",
+    "passed": true,
+    "failures": [],
+    "seconds": 4.8,
+    "screenshot": "screenshots/G1_1.png",
+    "reply_excerpt": "\ud83c\udfe2 \u2753 Which one do you mean? AST-CHL-001 (Chiller 1 - 400 TR water-cooled screw); AST-CHL-002 (Chiller 2 - 400 TR water-cooled screw); AST-CHL-003 (Chiller 3 - 400 TR water-cooled screw (standby)) keyboard_arrow_down \ud83d\udd27 Agent actions - 1 tool result(s) Graph path: understand \u2192 check_requirements \u2192 asse"
+  },
+  {
+    "scenario": "G2",
+    "step": 0,
+    "say": "(sign in as EMP-9999)",
+    "passed": true,
+    "failures": [],
+    "seconds": 5.2,
+    "screenshot": "screenshots/G2_0.png",
+    "reply_excerpt": "\ud83d\udeab No one with ID EMP-9999 is registered. Check the ID and try again."
+  },
+  {
+    "scenario": "G3",
+    "step": 1,
+    "say": "What's the cricket score?",
+    "passed": true,
+    "failures": [],
+    "seconds": 4.5,
+    "screenshot": "screenshots/G3_1.png",
+    "reply_excerpt": "\ud83c\udfe2 Sorry, that's outside what I can help with. I only handle facility operations for this building. I'm the Facility Operations Assistant. I can help with: Knowledge search: maintenance SOPs and statutory compliance rules (e.g. \"How do I reset a chiller trip alarm?\", \"What's needed for fire NOC renew"
+  },
+  {
+    "scenario": "G3",
+    "step": 2,
+    "say": "hi",
+    "passed": true,
+    "failures": [],
+    "seconds": 4.6,
+    "screenshot": "screenshots/G3_2.png",
+    "reply_excerpt": "\ud83c\udfe2 I'm the Facility Operations Assistant. I can help with: Knowledge search: maintenance SOPs and statutory compliance rules (e.g. \"How do I reset a chiller trip alarm?\", \"What's needed for fire NOC renewal?\") Asset & maintenance lookup: AMC, warranty, service history and open tickets for equipment, "
+  },
+  {
+    "scenario": "G3",
+    "step": 3,
+    "say": "yes",
+    "passed": true,
+    "failures": [],
+    "seconds": 5.1,
+    "screenshot": "screenshots/G3_3.png",
+    "reply_excerpt": "\ud83c\udfe2 There's nothing waiting for a yes/no right now. What would you like to do next? keyboard_arrow_down \ud83d\udd27 Agent actions Graph path: understand \u2192 respond Tool results Trace No tools were needed for this message."
+  },
+  {
+    "scenario": "H1",
+    "step": 0,
+    "say": "(page load)",
+    "passed": true,
+    "failures": [],
+    "seconds": 15.3,
+    "screenshot": "screenshots/H1_0.png",
+    "reply_excerpt": ""
+  },
+  {
+    "scenario": "H2",
+    "step": 1,
+    "say": "hello",
+    "passed": true,
+    "failures": [],
+    "seconds": 7.4,
+    "screenshot": "screenshots/H2_1.png",
+    "reply_excerpt": "\ud83c\udfe2 \u26a0\ufe0f The model 'gemini-nonexistent-model' is not available for this API key. Set a different model name in .env. keyboard_arrow_down \ud83d\udd27 Agent actions Graph path: understand \u2192 respond Tool results Trace No tools were needed for this message."
+  },
+  {
+    "scenario": "H3",
+    "step": 0,
+    "say": "(page load)",
+    "passed": true,
+    "failures": [],
+    "seconds": 6.3,
+    "screenshot": "screenshots/H3_0.png",
+    "reply_excerpt": ""
+  }
+]

@@ -1,0 +1,3 @@
+facility_id,name,address,city,state,occupancy_type,floors_above_ground,building_height_m,built_up_area_sqm,fm_manager_id
+FAC-001,Sahyadri Business Park - Tower A,"Plot 12, Rajiv Gandhi Infotech Park Phase 1, Hinjewadi",Pune,Maharashtra,Business (Group E) - IT office,15,58.5,46500,EMP-1001
+FAC-002,Deccan Corporate Centre,"Plot C-7, Chikalthana MIDC, Jalna Road",Chhatrapati Sambhajinagar,Maharashtra,Business (Group E) - office,6,22.5,9800,EMP-1101

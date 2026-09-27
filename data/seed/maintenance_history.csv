@@ -1,0 +1,45 @@
+record_id,asset_id,service_date,maintenance_type,description,performed_by,downtime_hours,next_due_date
+MR-0001,AST-CHL-001,2026-04-15,ppm,"Annual overhaul: condenser and evaporator tube cleaning, oil and filter change, compressor vibration analysis within limits",CoolTech HVAC Services,16,2027-04-15
+MR-0002,AST-CHL-001,2026-07-12,ppm,"Monthly PPM: log review, refrigerant pressures normal, approach temps within limits, starter panel tightness check",CoolTech HVAC Services,2,2026-08-10
+MR-0003,AST-CHL-001,2026-08-10,ppm,"Monthly PPM: all parameters normal; condenser approach rising (2.8 C), advised tube inspection",CoolTech HVAC Services,2,2026-09-08
+MR-0004,AST-CHL-001,2026-08-22,breakdown,"Tripped on high condenser pressure. Condenser tubes partially fouled; tube brushing done, cooling tower strainer cleaned, trip reset and chiller restored (ref WO-2026-0021)",CoolTech HVAC Services,6,
+MR-0005,AST-CHL-001,2026-09-08,ppm,"Monthly PPM: condenser approach back to 1.2 C after tube cleaning; all safeties tested OK",CoolTech HVAC Services,2,2026-10-08
+MR-0006,AST-CHL-002,2026-08-11,ppm,"Monthly PPM: parameters normal, minor oil stain noted near suction service valve",CoolTech HVAC Services,2,2026-09-09
+MR-0007,AST-CHL-002,2026-09-09,ppm,"Monthly PPM: suction pressure slightly low; leak test scheduled",CoolTech HVAC Services,2,2026-10-09
+MR-0008,AST-CHL-002,2026-09-18,breakdown,"Tripped on low refrigerant (suction) pressure. Leak found at brazed joint on suction line; joint re-brazed, pressure tested, 18 kg R-134a recharged. Parts and gas billed extra (non-comprehensive AMC) (ref WO-2026-0024)",CoolTech HVAC Services,9,
+MR-0009,AST-CHL-003,2026-08-12,ppm,"Monthly PPM on standby chiller: 2-hour run test OK",CoolTech HVAC Services,2,2026-09-10
+MR-0010,AST-CHL-003,2026-09-24,breakdown,"Failed to start during changeover. Compressor motor insulation resistance low (0.4 MOhm). Compressor motor removed and sent for rewinding under comprehensive AMC; expected back in 3 weeks (ref WO-2026-0029)",CoolTech HVAC Services,0,
+MR-0011,AST-AHU-005,2026-06-14,ppm,"Quarterly PPM: blower belt replaced, bearings greased, coil chemical cleaning",CoolTech HVAC Services,3,2026-09-14
+MR-0012,AST-AHU-005,2026-09-05,ppm,"Quarterly PPM: pre-filters and fine filters cleaned, drain pan cleaned, VFD parameters checked, supply air temp 14.5 C",CoolTech HVAC Services,2,2026-12-05
+MR-0013,AST-AHU-009,2026-08-20,ppm,"Warranty PPM by OEM: EC fan health check, filter cleaning, commissioning parameters verified",Zeco (OEM warranty),1,2026-11-20
+MR-0014,AST-AHU-012,2026-03-18,ppm,"Quarterly PPM: filters cleaned, belt tension adjusted",CoolTech HVAC Services,2,2026-06-18
+MR-0015,AST-AHU-012,2026-06-20,ppm,"Quarterly PPM: blower bearing noise noted, replacement recommended at next visit",CoolTech HVAC Services,2,2026-09-20
+MR-0016,AST-LFT-001,2026-09-03,ppm,"Monthly PPM: door operator, brakes, ropes and safety gear checked OK",Vertex Elevator Services,2,2026-10-03
+MR-0017,AST-LFT-002,2026-09-03,ppm,"Monthly PPM: door gib wear noted on L7 landing door, replacement planned",Vertex Elevator Services,2,2026-10-03
+MR-0018,AST-LFT-002,2026-09-27,breakdown,"Lift stopping intermittently at L7; landing door lock contact not making consistently. Temporary adjustment done, door lock assembly on order (ref WO-2026-0031)",Vertex Elevator Services,4,
+MR-0019,AST-LFT-003,2026-09-04,ppm,"Monthly PPM: all checks OK, levelling accuracy within 5 mm",Vertex Elevator Services,2,2026-10-04
+MR-0020,AST-LFT-004,2026-09-04,ppm,"Monthly PPM: checks OK. Reminder: statutory inspection and licence renewal overdue (expired 31-Aug-2026)",Vertex Elevator Services,2,2026-10-04
+MR-0021,AST-DGS-001,2026-03-22,statutory,"Annual load bank test at 80% load for 2 hours; stack emission monitoring done for consent compliance",PowerGen Services,4,2027-03-22
+MR-0022,AST-DGS-001,2026-07-15,ppm,"Quarterly PPM: lube oil, fuel and air filters replaced, battery electrolyte and terminals checked",PowerGen Services,3,2026-10-15
+MR-0023,AST-DGS-002,2026-07-15,ppm,"Quarterly PPM: lube oil, fuel and air filters replaced, battery specific gravity marginal",PowerGen Services,3,2026-10-15
+MR-0024,AST-DGS-002,2026-09-25,breakdown,"Low battery voltage alarm during weekly no-load test; starting batteries replaced (2 x 12 V 180 Ah) (ref WO-2026-0034)",PowerGen Services,1,
+MR-0025,AST-FPP-001,2026-01-18,statutory,"Half-yearly Form B inspection by licensed agency: pump performance test at rated head, auto-start on pressure drop verified",FireSafe Systems,2,2026-07-18
+MR-0026,AST-FPP-001,2026-09-12,ppm,"Monthly PPM: weekly auto-start tests reviewed, gland packing adjusted, panel check OK",FireSafe Systems,1,2026-10-12
+MR-0027,AST-FPP-002,2026-09-12,ppm,"Monthly PPM: diesel engine run 30 min, fuel tank 90%, battery charger OK",FireSafe Systems,1,2026-10-12
+MR-0028,AST-FPP-003,2026-09-12,ppm,"Monthly PPM: jockey pump cut-in/cut-out 7.0/8.5 kg/cm2 verified; frequent cycling observed, suspected system leak",FireSafe Systems,1,2026-10-12
+MR-0029,AST-FAS-001,2026-07-10,ppm,"Quarterly PPM: 25% of smoke detectors functionally tested, battery backup test 30 min OK, event log cleared",FireSafe Systems,0,2026-10-10
+MR-0030,AST-TRF-001,2026-01-20,ppm,"Half-yearly PPM: IR test, winding temperature relay calibration, enclosure cleaning",VoltCare Electricals,4,2026-07-20
+MR-0031,AST-TRF-001,2026-07-19,ppm,"Half-yearly PPM: IR values normal, thermal scan of LV busduct - no hotspots",VoltCare Electricals,4,2027-01-19
+MR-0032,AST-UPS-001,2026-09-02,ppm,"Warranty PPM by OEM: battery impedance test, 2 of 40 cells marginal and flagged, firmware updated",Vertiv (OEM warranty),0,2026-12-02
+MR-0033,AST-STP-001,2026-09-15,statutory,"Monthly treated-water lab analysis: BOD 8 mg/l, COD 42 mg/l, TSS 12 mg/l - within consent limits",AquaClean Enviro,0,2026-10-15
+MR-0034,AST-STP-001,2026-09-20,ppm,"Monthly PPM: blower oil change, media inspection, sludge withdrawal",AquaClean Enviro,2,2026-10-20
+MR-0035,AST-BMS-001,2026-05-28,ppm,"Quarterly PPM: server health, point database backup, trend log archive",Johnson Controls (authorised partner),0,2026-08-28
+MR-0036,AST-PMP-001,2026-08-30,ppm,"Monthly PPM: pump changeover done, mechanical seal inspected, pressure switch calibrated",In-house (Apex IFM),1,2026-09-30
+MR-0037,AST-VRF-101,2026-08-05,ppm,"Quarterly PPM: ODU coil washing, refrigerant pressures checked, IDU filter cleaning L1-L3",Arctic Air Solutions,3,2026-11-05
+MR-0038,AST-VRF-102,2026-08-06,ppm,"Quarterly PPM: ODU coil washing, IDU filter cleaning L4-L5",Arctic Air Solutions,3,2026-11-06
+MR-0039,AST-LFT-101,2026-09-10,ppm,"Monthly PPM: all checks OK",Vertex Elevator Services,1,2026-10-10
+MR-0040,AST-LFT-102,2026-09-10,ppm,"Monthly PPM: checks OK. Statutory licence expired 15-Sep-2026; inspection application pending",Vertex Elevator Services,1,2026-10-10
+MR-0041,AST-LFT-102,2026-08-14,breakdown,"Cabin ventilation fan not working; fan motor replaced (ref WO-2026-0028)",Vertex Elevator Services,1,
+MR-0042,AST-DGS-101,2026-08-01,ppm,"Quarterly PPM: filters replaced, coolant topped up, battery OK",PowerGen Services,2,2026-11-01
+MR-0043,AST-FPP-101,2026-09-15,ppm,"Monthly PPM: main and jockey pump auto-start test OK",FireSafe Systems,1,2026-10-15
+MR-0044,AST-TRF-101,2026-04-12,ppm,"Annual PPM: transformer oil BDV test 62 kV, DGA sample sent, earthing resistance 0.8 Ohm",In-house (Apex IFM),3,2027-04-12

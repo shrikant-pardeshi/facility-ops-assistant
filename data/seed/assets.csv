@@ -1,0 +1,29 @@
+asset_id,facility_id,name,category,make,model,serial_no,location,install_date,warranty_expiry,criticality,operational_status
+AST-CHL-001,FAC-001,Chiller 1 - 400 TR water-cooled screw,chiller,Carrier,30XW-400,CXW19A0412,"B2, Chiller Plant Room",2019-03-15,2021-03-14,high,running
+AST-CHL-002,FAC-001,Chiller 2 - 400 TR water-cooled screw,chiller,Carrier,30XW-400,CXW19A0413,"B2, Chiller Plant Room",2019-03-15,2021-03-14,high,running
+AST-CHL-003,FAC-001,Chiller 3 - 400 TR water-cooled screw (standby),chiller,Carrier,30XW-400,CXW19A0414,"B2, Chiller Plant Room",2019-03-15,2021-03-14,high,under_maintenance
+AST-AHU-005,FAC-001,AHU L5 East - 18000 CFM,ahu,Zeco,Double-skin AHU 18000 CFM,ZA-18-5E-2019,"L5, East AHU Room",2019-04-02,2021-04-01,medium,running
+AST-AHU-009,FAC-001,AHU L9 - 22000 CFM (replaced 2026),ahu,Zeco,Double-skin AHU 22000 CFM with EC fans,ZA-22-9-2026,"L9, AHU Room",2026-02-10,2028-02-09,medium,running
+AST-AHU-012,FAC-001,AHU L12 - 18000 CFM,ahu,Zeco,Double-skin AHU 18000 CFM,ZA-18-12-2019,"L12, AHU Room",2019-04-02,2021-04-01,medium,running
+AST-LFT-001,FAC-001,Passenger Lift 1 - 20 pax 2.5 m/s,lift,Schindler,Schindler 5500,SCH-19-PL1,"Core A, Lift Bank 1",2019-02-20,2021-02-19,high,running
+AST-LFT-002,FAC-001,Passenger Lift 2 - 20 pax 2.5 m/s,lift,Schindler,Schindler 5500,SCH-19-PL2,"Core A, Lift Bank 1",2019-02-20,2021-02-19,high,running
+AST-LFT-003,FAC-001,Passenger Lift 3 - 20 pax 2.5 m/s,lift,Schindler,Schindler 5500,SCH-19-PL3,"Core A, Lift Bank 1",2019-02-20,2021-02-19,high,running
+AST-LFT-004,FAC-001,Service Lift 4 - 1600 kg,lift,Schindler,Schindler 5500 (goods),SCH-19-SL4,"Core B, Service Lobby",2019-02-20,2021-02-19,medium,running
+AST-DGS-001,FAC-001,DG Set 1 - 1010 kVA,dg_set,Cummins,KTA38-G5 based 1010 kVA genset,CUM-DG-19-01,"Ground, DG Yard",2019-01-25,2021-01-24,high,standby
+AST-DGS-002,FAC-001,DG Set 2 - 1010 kVA,dg_set,Cummins,KTA38-G5 based 1010 kVA genset,CUM-DG-19-02,"Ground, DG Yard",2019-01-25,2021-01-24,high,standby
+AST-FPP-001,FAC-001,Main Fire Pump (electric) - 2850 LPM,fire_pump,Kirloskar,Horizontal split-case 2850 LPM,KBL-FP-19-01,"B2, Fire Pump Room",2019-01-10,2021-01-09,high,standby
+AST-FPP-002,FAC-001,Diesel Fire Pump - 2850 LPM,fire_pump,Kirloskar,Diesel-driven 2850 LPM,KBL-FP-19-02,"B2, Fire Pump Room",2019-01-10,2021-01-09,high,standby
+AST-FPP-003,FAC-001,Jockey Pump - 180 LPM,fire_pump,Kirloskar,Vertical multistage 180 LPM,KBL-FP-19-03,"B2, Fire Pump Room",2019-01-10,2021-01-09,medium,running
+AST-FAS-001,FAC-001,Addressable Fire Alarm Panel,fire_alarm,Honeywell Notifier,NFS2-3030,NTF-19-3030-01,"G, Fire Command Centre",2019-02-05,2021-02-04,high,running
+AST-TRF-001,FAC-001,Transformer - 2000 kVA dry-type,transformer,Siemens,2000 kVA cast-resin 22/0.433 kV,SIE-TR-19-01,"Ground, HT Substation",2018-12-12,2023-12-11,high,running
+AST-UPS-001,FAC-001,UPS - 200 kVA modular (replaced 2025),ups,Vertiv,Liebert modular 200 kVA,VRT-UPS-25-01,"B1, UPS Room",2025-06-18,2027-06-17,high,running
+AST-STP-001,FAC-001,Sewage Treatment Plant - 150 KLD MBBR,stp,AquaClean Enviro,MBBR 150 KLD,ACE-STP-19-150,"B2, STP Room",2019-03-01,2020-02-29,medium,running
+AST-BMS-001,FAC-001,Building Management System head-end,bms,Johnson Controls,Metasys,JCI-BMS-19-01,"G, Fire Command Centre",2019-04-10,2021-04-09,medium,running
+AST-PMP-001,FAC-001,Domestic Water Transfer Pumps (1W+1S),pump,Grundfos,CR 32 vertical multistage,GRF-19-DW-01,"B2, Pump Room",2019-01-15,2021-01-14,medium,running
+AST-VRF-101,FAC-002,VRF System A (L1-L3) - 60 HP,vrf,Daikin,VRV outdoor bank 60 HP,DKN-21-VRF-A,"Terrace, ODU Bank A",2021-06-20,2023-06-19,medium,running
+AST-VRF-102,FAC-002,VRF System B (L4-L5) - 48 HP,vrf,Daikin,VRV outdoor bank 48 HP,DKN-21-VRF-B,"Terrace, ODU Bank B",2021-06-20,2023-06-19,medium,running
+AST-LFT-101,FAC-002,Lift A - 13 pax 1.5 m/s,lift,Johnson Lifts,MRL passenger 13 pax,JL-21-A,"Main Core",2021-05-15,2023-05-14,high,running
+AST-LFT-102,FAC-002,Lift B - 13 pax 1.5 m/s,lift,Johnson Lifts,MRL passenger 13 pax,JL-21-B,"Main Core",2021-05-15,2023-05-14,high,running
+AST-DGS-101,FAC-002,DG Set - 500 kVA,dg_set,Kirloskar,500 kVA silent genset,KOEL-DG-21-01,"Ground, DG Yard",2021-04-30,2023-04-29,high,standby
+AST-FPP-101,FAC-002,Fire Pump Set (main + jockey),fire_pump,Kirloskar,Main 1620 LPM + jockey 180 LPM,KBL-FP-21-01,"Basement, Pump Room",2021-04-10,2023-04-09,high,standby
+AST-TRF-101,FAC-002,Transformer - 1000 kVA oil-filled,transformer,Voltamp,1000 kVA ONAN 11/0.433 kV,VLT-TR-21-01,"Ground, Substation",2021-03-18,2026-03-17,high,running

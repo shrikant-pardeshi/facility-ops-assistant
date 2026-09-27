@@ -1,0 +1,61 @@
+# ---------------------------------------------------------------------------
+# Secrets - NEVER commit API keys
+# ---------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+
+# ---------------------------------------------------------------------------
+# Generated data & logs (rebuilt automatically from data/seed/ and at runtime)
+# ---------------------------------------------------------------------------
+*.db
+*.db-journal
+*.sqlite3
+logs/
+*.log
+
+# ---------------------------------------------------------------------------
+# Test output
+#   All Playwright runs go to e2e_reports/ (ignored). Only the latest real-model
+#   run is committed, in docs/sample_run/ (python e2e/run_e2e.py --save-sample).
+# ---------------------------------------------------------------------------
+e2e_reports/
+test-results/
+playwright-report/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ---------------------------------------------------------------------------
+# Demo video: commit only the final video, not the per-recording work folders
+# (demo_video/_run-*/ hold a temp database and server log) or offline dry runs.
+# ---------------------------------------------------------------------------
+demo_video/*
+!demo_video/facility_ops_demo.webm
+/*.webm
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# ---------------------------------------------------------------------------
+# Editors / OS / Office
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
+
+# Local sync scratch folder
+_to_delete/

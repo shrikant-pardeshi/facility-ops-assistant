@@ -1,0 +1,18 @@
+cert_id,facility_id,asset_id,cert_type,title,issuing_authority,reference_no,issue_date,expiry_date,renewal_lead_days,kb_reference
+CERT-001,FAC-001,,fire_noc,Fire NOC (renewal),"Chief Fire Officer, local fire authority",FNOC/PUN/2025/0417,2025-12-16,2026-12-15,60,REG-FIRE-001
+CERT-002,FAC-001,,fire_form_b,Form B - half-yearly fire system compliance certificate (Jan 2026 cycle),Licensed fire agency (FireSafe Systems) - submitted to Chief Fire Officer,FB/PUN/2026/H1/0932,2026-01-20,2026-07-31,15,REG-FIRE-002
+CERT-003,FAC-001,AST-LFT-001,lift_license,Lift licence and periodic inspection - Passenger Lift 1,Inspector of Lifts (State),LIFT/PUN/19/1101,2026-05-11,2027-05-10,45,REG-LIFT-001
+CERT-004,FAC-001,AST-LFT-002,lift_license,Lift licence and periodic inspection - Passenger Lift 2,Inspector of Lifts (State),LIFT/PUN/19/1102,2025-10-21,2026-10-20,45,REG-LIFT-001
+CERT-005,FAC-001,AST-LFT-003,lift_license,Lift licence and periodic inspection - Passenger Lift 3,Inspector of Lifts (State),LIFT/PUN/19/1103,2026-03-01,2027-02-28,45,REG-LIFT-001
+CERT-006,FAC-001,AST-LFT-004,lift_license,Lift licence and periodic inspection - Service Lift 4,Inspector of Lifts (State),LIFT/PUN/19/1104,2025-09-01,2026-08-31,45,REG-LIFT-001
+CERT-007,FAC-001,,dg_approval,DG sets 1 & 2 - electrical inspection approval,Electrical Inspector (State),EI/PUN/DG/2023/228,2023-04-01,2028-03-31,60,REG-ELEC-001
+CERT-008,FAC-001,,electrical_audit,Periodic inspection of HT/LT electrical installation,Electrical Inspector (State),EI/PUN/PI/2025/0911,2025-12-21,2026-12-20,60,REG-ELEC-001
+CERT-009,FAC-001,,structural_audit,Structural stability certificate (periodic structural audit),Licensed structural engineer (empanelled),SSC/2024/TA/017,2024-07-01,2029-06-30,90,REG-STR-001
+CERT-010,FAC-001,AST-STP-001,pollution_cto,Consent to Operate - STP and DG sets,State Pollution Control Board,CTO/PUN/2021/5519,2021-10-26,2026-10-25,60,REG-ENV-001
+CERT-011,FAC-001,,water_test,Drinking water quality test report (quarterly),NABL-accredited laboratory,WQ/2026/Q3/0417,2026-07-10,2026-10-10,10,REG-WATER-001
+CERT-012,FAC-002,,fire_noc,Fire NOC (renewal),"Chief Fire Officer, local fire authority",FNOC/CSN/2025/0088,2025-09-01,2027-08-31,60,REG-FIRE-001
+CERT-013,FAC-002,,fire_form_b,Form B - half-yearly fire system compliance certificate (Jul 2026 cycle),Licensed fire agency (FireSafe Systems) - submitted to Chief Fire Officer,FB/CSN/2026/H2/0107,2026-07-25,2027-01-31,15,REG-FIRE-002
+CERT-014,FAC-002,AST-LFT-101,lift_license,Lift licence and periodic inspection - Lift A,Inspector of Lifts (State),LIFT/CSN/21/0301,2025-12-01,2026-11-30,45,REG-LIFT-001
+CERT-015,FAC-002,AST-LFT-102,lift_license,Lift licence and periodic inspection - Lift B,Inspector of Lifts (State),LIFT/CSN/21/0302,2025-09-16,2026-09-15,45,REG-LIFT-001
+CERT-016,FAC-002,,dg_approval,DG set - electrical inspection approval,Electrical Inspector (State),EI/CSN/DG/2021/064,2021-12-16,2026-12-15,60,REG-ELEC-001
+CERT-017,FAC-002,,electrical_audit,Periodic inspection of HT/LT electrical installation,Electrical Inspector (State),EI/CSN/PI/2026/0142,2026-05-01,2027-04-30,60,REG-ELEC-001

@@ -1,0 +1,25 @@
+amc_id,asset_id,vendor,contract_type,start_date,end_date,visit_frequency,vendor_contact
+AMC-001,AST-CHL-001,CoolTech HVAC Services,comprehensive,2026-04-01,2027-03-31,monthly,service@cooltech.example / +91-20-5550-0101
+AMC-002,AST-CHL-002,CoolTech HVAC Services,non_comprehensive,2025-11-01,2026-10-31,monthly,service@cooltech.example / +91-20-5550-0101
+AMC-003,AST-CHL-003,CoolTech HVAC Services,comprehensive,2026-04-01,2027-03-31,monthly,service@cooltech.example / +91-20-5550-0101
+AMC-004,AST-AHU-005,CoolTech HVAC Services,non_comprehensive,2026-04-01,2027-03-31,quarterly,service@cooltech.example / +91-20-5550-0101
+AMC-005,AST-AHU-012,CoolTech HVAC Services,non_comprehensive,2025-07-01,2026-06-30,quarterly,service@cooltech.example / +91-20-5550-0101
+AMC-006,AST-LFT-001,Vertex Elevator Services,comprehensive,2026-01-01,2026-12-31,monthly,care@vertexelevators.example / +91-20-5550-0202
+AMC-007,AST-LFT-002,Vertex Elevator Services,comprehensive,2026-01-01,2026-12-31,monthly,care@vertexelevators.example / +91-20-5550-0202
+AMC-008,AST-LFT-003,Vertex Elevator Services,comprehensive,2026-01-01,2026-12-31,monthly,care@vertexelevators.example / +91-20-5550-0202
+AMC-009,AST-LFT-004,Vertex Elevator Services,comprehensive,2026-01-01,2026-12-31,monthly,care@vertexelevators.example / +91-20-5550-0202
+AMC-010,AST-DGS-001,PowerGen Services,non_comprehensive,2025-10-15,2026-10-14,quarterly,support@powergen.example / +91-20-5550-0303
+AMC-011,AST-DGS-002,PowerGen Services,non_comprehensive,2025-10-15,2026-10-14,quarterly,support@powergen.example / +91-20-5550-0303
+AMC-012,AST-FPP-001,FireSafe Systems,comprehensive,2026-07-01,2027-06-30,monthly,amc@firesafe.example / +91-20-5550-0404
+AMC-013,AST-FPP-002,FireSafe Systems,comprehensive,2026-07-01,2027-06-30,monthly,amc@firesafe.example / +91-20-5550-0404
+AMC-014,AST-FPP-003,FireSafe Systems,comprehensive,2026-07-01,2027-06-30,monthly,amc@firesafe.example / +91-20-5550-0404
+AMC-015,AST-FAS-001,FireSafe Systems,comprehensive,2026-07-01,2027-06-30,quarterly,amc@firesafe.example / +91-20-5550-0404
+AMC-016,AST-TRF-001,VoltCare Electricals,non_comprehensive,2026-01-01,2026-12-31,half-yearly,ops@voltcare.example / +91-20-5550-0505
+AMC-017,AST-STP-001,AquaClean Enviro,comprehensive,2026-04-01,2027-03-31,monthly,om@aquaclean.example / +91-20-5550-0606
+AMC-018,AST-BMS-001,Johnson Controls (authorised partner),non_comprehensive,2025-09-01,2026-08-31,quarterly,bms-support@jci-partner.example
+AMC-019,AST-VRF-101,Arctic Air Solutions,comprehensive,2026-02-01,2027-01-31,quarterly,service@arcticair.example / +91-240-555-0110
+AMC-020,AST-VRF-102,Arctic Air Solutions,comprehensive,2026-02-01,2027-01-31,quarterly,service@arcticair.example / +91-240-555-0110
+AMC-021,AST-LFT-101,Vertex Elevator Services,comprehensive,2025-11-01,2026-10-31,monthly,care@vertexelevators.example / +91-240-555-0220
+AMC-022,AST-LFT-102,Vertex Elevator Services,comprehensive,2025-11-01,2026-10-31,monthly,care@vertexelevators.example / +91-240-555-0220
+AMC-023,AST-DGS-101,PowerGen Services,non_comprehensive,2026-05-01,2027-04-30,quarterly,support@powergen.example / +91-240-555-0330
+AMC-024,AST-FPP-101,FireSafe Systems,comprehensive,2026-07-01,2027-06-30,monthly,amc@firesafe.example / +91-240-555-0440

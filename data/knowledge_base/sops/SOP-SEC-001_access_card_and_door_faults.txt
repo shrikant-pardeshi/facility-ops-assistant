@@ -1,0 +1,36 @@
+Title: Access Card Reader and Door Access Faults
+Tags: access card, card reader, door, access control, security, badge, turnstile, not working, locked out
+Doc-Type: sop
+
+Scope: all card-controlled doors, turnstiles and lift-lobby readers in the building.
+Owner: Security Supervisor. Reviewed: 2026-05-15.
+
+WHO TO CONTACT
+Occupants report access card or door faults to the helpdesk as a complaint (category: security).
+The helpdesk assigns it to the security team, who work with the access-control vendor if needed.
+For a door that will not lock or an alarm that keeps sounding, call the security desk immediately.
+
+FIRST CHECKS BY THE USER
+1. Try the card on a second reader on the same floor. If it works there, the first reader is faulty.
+2. Check the card is not bent, cracked or near a phone case magnet.
+3. Ask a colleague to try their card on the same reader.
+If only your card fails on every reader, the card needs to be re-encoded or replaced (go to the security desk with your ID).
+
+READER NOT RESPONDING (SECURITY TEAM)
+1. Check the reader LED: no light means no power; steady red means offline from the controller.
+2. Power-cycle the reader from the door controller panel (label shows the door ID).
+3. If it stays offline, check the network link to the controller and raise it with the access-control vendor.
+4. While the reader is down, post a guard or keep the door on managed access. Never prop fire doors open.
+Target response: P3 - 24 hours; a main entrance or lift-lobby reader down for everyone is P2 - 4 hours.
+
+DOOR WILL NOT LOCK OR KEEPS ALARMING
+1. Treat as a security risk: station a guard until fixed.
+2. Check the door closer and magnetic lock alignment; clear any obstruction.
+3. Check the door contact sensor; log every forced-door or held-open alarm in the security register.
+
+FIRE ALARM AND ACCESS CONTROL
+On a fire alarm, card-controlled doors on escape routes release automatically (fail-safe).
+After the all-clear, the security team confirms every door has re-locked and resets the controller.
+
+RECORDS
+Log every fault, the action taken and the closure time against the ticket. Review repeat faults monthly.
